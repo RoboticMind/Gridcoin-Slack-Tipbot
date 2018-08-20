@@ -1,0 +1,13 @@
+*Here Are the Steps To Get Started:*
+1) run `/register` to register your account
+2) run `/password add,[password]` to add a pasword (optional)
+*To Add Coins Into Your Account:*
+1) run `/deposit` then copy the address given by the command
+2) open your wallet and click on the send tab
+3) Then paste the addresss you copied into the section titled "Pay To"
+4) In the section labeled amount, type an amount and then click send in the lower righthand corner
+*To Withdraw Your Coins:*
+1) Open your wallet and click on the recieve tab
+2) Click new if you see nothing there
+3) Select one of the listed addresses and click copy
+4) run `/withdraw [Copied Address],[Amount of Gridcoin]["," ( Your Password |If You Set One| )]`

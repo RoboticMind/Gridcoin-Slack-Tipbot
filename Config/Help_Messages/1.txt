@@ -1,0 +1,18 @@
+This bot allows you to send Gridcoins to others with no fee on the transaction.
+To use the bot, go into any channel and type your command. Each command starts with a `/`. Use commas to separate each argument in a command (I.E: \"/tip User,Amount\").
+Make sure any username entered is not tagged by a leading "@" (I.E "@user")\nTo run /tip and "/faucet give" privately, go into a privte channel such as a direct message with any user
+By using this bot you are agreeing to the terms of service which you can see by running /tos
+
+Here is a list of each command and what they do:
+`/tip: Lets You Send Gridcoin`
+`/password: This Command Lets You Add, Remove, or Change Your Password`
+`/balance: Shows How Many Gridcoin You Have Inside the Bot`
+`/register: Adds Your Account To The Bot If You Haven't Already Been Tipped Gridcoin`
+`/deposit: Shows The Address You Can Send Gridcoin To, Along With Some Other Information`
+`/withdraw: Allows You To Withdraw Your Gridcoin From This Bot`
+`/test: Allows You To See If The Bot Is Online and Working`
+`/attribution: Shows Any Works Used In The Process Of Making This Bot`
+`/faucet: Gives You the Ability to Receive Gridcoin from the Faucet or Give Gridcoin to the Facuet`
+`/tos: Tells You This Bot's Terms of Service`
+`/helpgrctip: Shows You This Help Message`
+run `/helpgrctip 2` to learn more about how to start using this bot
